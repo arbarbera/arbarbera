@@ -1,5 +1,5 @@
-![Rio](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png | width=100)
-![alt text](https://github.com/arbarbera/arbarbera/blob/main/cristo.jpg?raw=true)
+![](https://github.com/arbarbera/arbarbera/main/cristo.jpg)
+
 #### Hello! I’m @arbarbera - Antonio ***Roberto Barbera*** - from Rio de Janeiro, Brasil.
 - 👀 
 I'm especially interested in Data Science for Capital Markets. I have been researching and participating in Financial Education and Portfolio Diversification projects, aimed at the variable income market in Brazil - B3 (.SA - Bovespa).
